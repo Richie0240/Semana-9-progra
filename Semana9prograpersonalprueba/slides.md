@@ -15,7 +15,6 @@ transition: slide-left
 comark: true
 duration: 45min
 ---
-
 # 📊 Ruta: Analista de Datos Jr
 
 ## Costa Rica 🇨🇷
@@ -36,8 +35,9 @@ duration: 45min
 </div>
 
 ---
+
 transition: fade-out
----
+--------------------
 
 # ¿Qué es un Analista de Datos Jr?
 
@@ -51,6 +51,7 @@ Un **Analista de Datos Junior** es un profesional que:
 - 💡 **Apoya decisiones** basadas en datos
 
 ### Oportunidades en Costa Rica
+
 - **Empresas locales:** Financieras, retail, seguros
 - **Multinacionales:** Tech, consultoría, manufactura
 - **Startups:** Fintech, e-commerce, SaaS
@@ -68,19 +69,22 @@ h1 {
 </style>
 
 ---
+
 layout: two-cols
 layoutClass: gap-16
----
+-------------------
 
 # 🎯 Ruta de Aprendizaje
 
 **Fase 1: Fundamentos (3-4 meses)**
+
 - Estadística básica
 - SQL fundamentals
 - Excel avanzado
 - Lógica y programación
 
 **Fase 2: Herramientas (2-3 meses)**
+
 - Python/R para análisis
 - Visualización (Power BI, Tableau)
 - Git y control de versiones
@@ -88,12 +92,14 @@ layoutClass: gap-16
 ::right::
 
 **Fase 3: Proyectos (2-3 meses)**
+
 - Proyectos portfolio
 - Casos reales
 - Kaggle competitions
 - GitHub projects
 
 **Fase 4: Especialización**
+
 - Machine Learning básico
 - Big Data intro
 - Cloud (AWS, GCP)
@@ -103,32 +109,30 @@ layoutClass: gap-16
 
 # 📚 Requisitos Técnicos Esenciales
 
-## Nivel Básico (Mes 1-2)
-- ✅ Conceptos de BD relacionales
-- ✅ Queries SQL básicos (SELECT, WHERE, JOIN)
-- ✅ Excel avanzado (tablas dinámicas, gráficos)
-- ✅ Lógica de programación
+## Nivel Básico (Mes 1-2)					Nivel Intermedio (Mes 3-4)
 
-## Nivel Intermedio (Mes 3-4)
-- 🐍 Python: pandas, numpy, matplotlib
-- 📊 Fundamentos de estadística
-- 🎨 Herramientas de visualización
-- 🔐 Conceptos de seguridad de datos
+- ✅ Conceptos de BD relacionales							🐍 Python: pandas, numpy, matplotlib
+- ✅ Queries SQL básicos (SELECT, WHERE, JOIN)				📊 Fundamentos de estadística
+- ✅ Excel avanzado (tablas dinámicas, gráficos)				🎨 Herramientas de visualización
+- ✅ Lógica de programación								🔐 Conceptos de seguridad de datos
 
 ## Nivel Avanzado (Mes 5+)
+
 - ⚙️ Automatización de ETL
 - 🤖 Introducción a ML
 - ☁️ Herramientas en la nube
 - 📈 Análisis predictivo
 
 ---
+
 layout: image-right
 image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&fit=crop
----
+----------------------------------------------------------------------------------------
 
 # 🛠️ Stack Tecnológico
 
 ### **Imprescindible**
+
 ```
 SQL (PostgreSQL, MySQL, SQL Server)
 Excel / Google Sheets
@@ -136,6 +140,7 @@ Python (pandas, NumPy, Matplotlib)
 ```
 
 ### **Recomendado**
+
 ```
 Power BI / Tableau
 Git & GitHub
@@ -143,6 +148,7 @@ Jupyter Notebooks
 ```
 
 ### **Bueno Tener**
+
 ```
 R (ggplot2, dplyr)
 Airflow (ETL)
@@ -151,6 +157,7 @@ AWS / GCP / Azure
 ```
 
 ### **Certificaciones Valiosas**
+
 - Google Data Analytics Certificate
 - Microsoft Data Analyst
 - Tableau Desktop Specialist
@@ -161,20 +168,23 @@ AWS / GCP / Azure
 # 💼 Oportunidades Laborales en CR
 
 ### Empresas Locales
-| Sector | Ejemplos |
-|--------|----------|
-| **Financiero** | BAC, BNCR, Scotiabank, BCAC |
-| **Retail** | Walmart, Pricesmart, Tiendas Max |
-| **Seguros** | INS, CCSS, Seguros Universal |
-| **Telecomunicaciones** | Kolbi, Claro, Movistar |
+
+| Sector                       | Ejemplos                         |
+| ---------------------------- | -------------------------------- |
+| **Financiero**         | BAC, BNCR, Scotiabank, BCAC      |
+| **Retail**             | Walmart, Pricesmart, Tiendas Max |
+| **Seguros**            | INS, CCSS, Seguros Universal     |
+| **Telecomunicaciones** | Kolbi, Claro, Movistar           |
 
 ### Multinacionales & Startups
+
 - **Amazon, Google, Meta** (sedes regionales)
 - **Startups Fintech:** Qlip, Sinpe, Prpaybox
 - **E-commerce:** Shopify, Didi, Uber
 - **Consultorías:** Deloitte, EY, PWC
 
 ### Salarios (Rango aproximado 2024-2026)
+
 - **Junior:** ₡900k - ₡1.5M/mes
 - **Semi-Senior:** ₡1.5M - ₡2.5M/mes
 - **Senior:** ₡2.5M+/mes
@@ -184,33 +194,38 @@ AWS / GCP / Azure
 # 🎓 Recursos para Aprender
 
 ### **Plataformas Online Gratuitas**
+
 - 📖 **YouTube:** Maven Analytics, Alex The Analyst, DataCamp
 - 💻 **Kaggle:** Datasets y competitions
 - 🐍 **Codecademy:** Cursos interactivos
 - 📊 **Mode Analytics:** Tutorial SQL
 
 ### **Cursos Pagados (Recomendados)**
+
 - **Coursera:** Google Data Analytics, IBM Data Analysis
 - **Udemy:** "The Complete Hands-On Introduction to Data Science"
 - **Maven Analytics:** Business Intelligence Bootcamp
 - **DataCamp:** Data Analyst tracks
 
 ### **Comunidades en CR**
+
 - **Data Science Costa Rica** (Meetup, Facebook)
 - **Dev.cr** - Comunidad tech local
 - **AI Costa Rica** - Grupo de IA y ML
 - **Tech Talks San José** - Conferencias locales
 
 ---
+
 layout: two-cols
 layoutClass: gap-16
----
+-------------------
 
 # 📈 Primer Proyecto: Portfolio
 
 Crear 3-5 proyectos que demuestren:
 
 **Proyecto 1: Análisis SQL**
+
 ```sql
 -- Análisis de ventas
 SELECT 
@@ -226,6 +241,7 @@ ORDER BY mes DESC;
 ::right::
 
 **Proyecto 2: Python & Visualización**
+
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -238,6 +254,7 @@ plt.show()
 ```
 
 **Proyecto 3: Dashboard Real**
+
 - Datos públicos (INEC, BCCR)
 - Power BI o Tableau
 - Insights accionables
@@ -248,18 +265,21 @@ plt.show()
 # 💡 Tips para Entrevistas
 
 ### **Antes de la Entrevista**
+
 - ✅ Domina tu portfolio y proyectos
 - ✅ Practica SQL queries comunes
 - ✅ Aprende sobre la industria de la empresa
 - ✅ Prepara ejemplos STAR (Situation, Task, Action, Result)
 
 ### **Durante la Entrevista**
+
 - 🎯 Muestra curiosidad por los datos
 - 📊 Explica tu pensamiento analítico
 - 🤝 Destaca trabajo en equipo
 - 💬 Pregunta sobre desafíos reales
 
 ### **Preguntas que te Harán**
+
 ```
 1. Explica un análisis que hayas hecho
 2. ¿Cómo manejarías datos inconsistentes?
@@ -269,6 +289,7 @@ plt.show()
 ```
 
 ### **Rojo Flags a Evitar**
+
 - ❌ No investigar la empresa
 - ❌ No tener ejemplos concretos
 - ❌ Mentir sobre habilidades
@@ -306,43 +327,51 @@ MESES 8-12: Especialización & Búsqueda
 # 🌟 Ventajas Competitivas en CR
 
 ### **Ser Bilingüe**
+
 - Español + Inglés = acceso a empresas gringas
 - Valora mucho + dinero en multinationales
 
 ### **Ubicación Geográfica**
+
 - Hub tech de América Latina
 - Atrae inversión extranjera
 - Salarios competitivos
 
 ### **Mercado en Crecimiento**
+
 - Demanda > Oferta (2024-2026)
 - Empresas buscan talento junior
 - Oportunidades de remoto 100%
 
 ### **Soft Skills Importantes**
+
 - 💬 Comunicación clara
 - 🤝 Trabajo en equipo
 - ⏱️ Gestión de proyectos
 - 🎯 Resolución de problemas
 
 ---
+
 layout: center
 class: text-center
----
+------------------
 
 # 🎯 Próximos Pasos
 
 ## Hoy mismo:
+
 1. Elige una plataforma (Coursera, DataCamp)
 2. Registrate en Kaggle
 3. Crea una carpeta para proyectos
 
 ## Esta semana:
+
 1. Completa primer módulo SQL
 2. Configura GitHub
 3. Únete a comunidades locales
 
 ## Este mes:
+
 1. Primer proyecto en portfolio
 2. Establece meta clara
 3. Busca mentor en tech
@@ -352,31 +381,37 @@ class: text-center
 # 📞 Recursos Finales
 
 ### **En Costa Rica**
+
 - 🌐 [LinkedIn CR Tech Community](https://linkedin.com)
 - 👥 [Data Science Costa Rica](https://www.meetup.com)
 - 💼 [LinkedIn Jobs CR](https://linkedin.com/jobs)
 
 ### **Plataformas Globales**
+
 - 🐍 [Python.org](https://python.org)
 - 📊 [Kaggle.com](https://kaggle.com)
 - 📖 [Mode Analytics SQL](https://mode.com/sql-tutorial)
 - 🎓 [Coursera](https://coursera.org)
 
 ### **Síguenos**
+
 - 📧 Newsletter de Data Science
 - 🐦 Expertos en Twitter/X
 - 📺 Canales de YouTube recomendados
 
 ---
+
 layout: center
 class: text-center text-2xl
----
+---------------------------
 
 # ¡Éxito en tu Camino! 🚀
 
-### **Recuerda:** 
+### **Recuerda:**
+
 > La consistencia vence al talento cuando el talento no es consistente.
 > — Jeff Bezos
 
 ### Tu carrera como Analista de Datos Jr
+
 ### ¡Comienza hoy! 💪
