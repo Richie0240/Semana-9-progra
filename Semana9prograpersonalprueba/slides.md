@@ -109,12 +109,19 @@ layoutClass: gap-16
 
 # 📚 Requisitos Técnicos Esenciales
 
-## Nivel Básico (Mes 1-2)					Nivel Intermedio (Mes 3-4)
+## Nivel Básico (Mes 1-2)
 
-- ✅ Conceptos de BD relacionales							🐍 Python: pandas, numpy, matplotlib
-- ✅ Queries SQL básicos (SELECT, WHERE, JOIN)				📊 Fundamentos de estadística
-- ✅ Excel avanzado (tablas dinámicas, gráficos)				🎨 Herramientas de visualización
-- ✅ Lógica de programación								🔐 Conceptos de seguridad de datos
+- ✅ Conceptos de BD relacionales
+- ✅ Queries SQL básicos (SELECT, WHERE, JOIN)
+- ✅ Excel avanzado (tablas dinámicas, gráficos)
+- ✅ Lógica de programación
+
+## Nivel Intermedio (Mes 3-4)
+
+- 🐍 Python: pandas, numpy, matplotlib
+- 📊 Fundamentos de estadística
+- 🎨 Herramientas de visualización
+- 🔐 Conceptos de seguridad de datos
 
 ## Nivel Avanzado (Mes 5+)
 
