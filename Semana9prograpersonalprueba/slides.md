@@ -36,25 +36,16 @@ duration: 45min
 
 ---
 
-transition: fade-out
---------------------
-
 # ¿Qué es un Analista de Datos Jr?
 
 Un **Analista de Datos Junior** es un profesional que:
 
-- 📈 **Recopila y procesa** datos de diversas fuentes
-- 🔍 **Analiza patrones** para extraer insights valiosos
-- 📊 **Crea visualizaciones** para comunicar hallazgos
-- 🛠️ **Usa herramientas** SQL, Python, Power BI
-- 🤝 **Colabora** con equipos multidisciplinarios
-- 💡 **Apoya decisiones** basadas en datos
-
-### Oportunidades en Costa Rica
-
-- **Empresas locales:** Financieras, retail, seguros
-- **Multinacionales:** Tech, consultoría, manufactura
-- **Startups:** Fintech, e-commerce, SaaS
+- 📈 Recopila y procesa datos
+- 🔍 Analiza patrones
+- 📊 Crea visualizaciones
+- 🛠️ Usa SQL, Python, Power BI
+- 🤝 Colabora en equipos
+- 💡 Apoya decisiones
 
 <style>
 h1 {
@@ -70,9 +61,26 @@ h1 {
 
 ---
 
-layout: two-cols
-layoutClass: gap-16
--------------------
+# 🌍 Oportunidades en Costa Rica
+
+### **Empresas Locales**
+
+- Financieras: BAC, BNCR
+- Retail: Walmart, Pricesmart
+- Seguros: INS, CCSS
+- Telecomunicaciones
+
+### **Multinacionales**
+
+- Amazon, Google, Meta
+- Deloitte, EY, PWC
+
+### **Startups**
+
+- Fintech: Qlip, Sinpe
+- E-commerce: Didi, Uber
+
+---
 
 # 🎯 Ruta de Aprendizaje
 
@@ -107,27 +115,35 @@ layoutClass: gap-16
 
 ---
 
-# 📚 Requisitos Técnicos Esenciales
+# 📚 Requisitos: Nivel Básico
 
-## Nivel Básico (Mes 1-2)
+**Mes 1-2**
 
-- ✅ Conceptos de BD relacionales
-- ✅ Queries SQL básicos (SELECT, WHERE, JOIN)
-- ✅ Excel avanzado (tablas dinámicas, gráficos)
-- ✅ Lógica de programación
+- ✅ BD relacionales
+- ✅ SQL: SELECT, WHERE, JOIN
+- ✅ Excel avanzado
+- ✅ Lógica programación
 
-## Nivel Intermedio (Mes 3-4)
+---
 
-- 🐍 Python: pandas, numpy, matplotlib
-- 📊 Fundamentos de estadística
-- 🎨 Herramientas de visualización
-- 🔐 Conceptos de seguridad de datos
+# 📚 Requisitos: Nivel Intermedio
 
-## Nivel Avanzado (Mes 5+)
+**Mes 3-4**
 
-- ⚙️ Automatización de ETL
-- 🤖 Introducción a ML
-- ☁️ Herramientas en la nube
+- 🐍 Python: pandas, numpy
+- 📊 Estadística
+- 🎨 Power BI / Tableau
+- 🔐 Seguridad de datos
+
+---
+
+# 📚 Requisitos: Nivel Avanzado
+
+**Mes 5+**
+
+- ⚙️ ETL / Airflow
+- 🤖 Machine Learning
+- ☁️ AWS / GCP / Azure
 - 📈 Análisis predictivo
 
 ---
@@ -140,86 +156,74 @@ image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&
 
 ### **Imprescindible**
 
-```
-SQL (PostgreSQL, MySQL, SQL Server)
-Excel / Google Sheets
-Python (pandas, NumPy, Matplotlib)
-```
+- SQL (PostgreSQL, MySQL)
+- Excel / Google Sheets
+- Python (pandas, NumPy)
 
 ### **Recomendado**
 
-```
-Power BI / Tableau
-Git & GitHub
-Jupyter Notebooks
-```
+- Power BI / Tableau
+- Git & GitHub
+- Jupyter Notebooks
 
 ### **Bueno Tener**
 
-```
-R (ggplot2, dplyr)
-Airflow (ETL)
-Spark básico
-AWS / GCP / Azure
-```
+- R, Airflow, Spark
+- AWS / GCP / Azure
 
-### **Certificaciones Valiosas**
+---
 
-- Google Data Analytics Certificate
+# 🎓 Certificaciones Valiosas
+
+- Google Data Analytics
 - Microsoft Data Analyst
 - Tableau Desktop Specialist
 - AWS Cloud Practitioner
 
 ---
 
-# 💼 Oportunidades Laborales en CR
+# � Salarios en Costa Rica
 
-### Empresas Locales
+### **Junior**
 
-| Sector                       | Ejemplos                         |
-| ---------------------------- | -------------------------------- |
-| **Financiero**         | BAC, BNCR, Scotiabank, BCAC      |
-| **Retail**             | Walmart, Pricesmart, Tiendas Max |
-| **Seguros**            | INS, CCSS, Seguros Universal     |
-| **Telecomunicaciones** | Kolbi, Claro, Movistar           |
+₡900k - ₡1.5M/mes
 
-### Multinacionales & Startups
+### **Semi-Senior**
 
-- **Amazon, Google, Meta** (sedes regionales)
-- **Startups Fintech:** Qlip, Sinpe, Prpaybox
-- **E-commerce:** Shopify, Didi, Uber
-- **Consultorías:** Deloitte, EY, PWC
+₡1.5M - ₡2.5M/mes
 
-### Salarios (Rango aproximado 2024-2026)
+### **Senior**
 
-- **Junior:** ₡900k - ₡1.5M/mes
-- **Semi-Senior:** ₡1.5M - ₡2.5M/mes
-- **Senior:** ₡2.5M+/mes
+₡2.5M+/mes
+
+> Empresas internacionales: +30-50%
 
 ---
 
-# 🎓 Recursos para Aprender
+# 🎓 Recursos Gratuitos
 
-### **Plataformas Online Gratuitas**
-
-- 📖 **YouTube:** Maven Analytics, Alex The Analyst, DataCamp
+- 📖 **YouTube:** Maven Analytics, Alex The Analyst
 - 💻 **Kaggle:** Datasets y competitions
 - 🐍 **Codecademy:** Cursos interactivos
-- 📊 **Mode Analytics:** Tutorial SQL
+- 📊 **Mode Analytics:** SQL tutorial
 
-### **Cursos Pagados (Recomendados)**
+---
 
-- **Coursera:** Google Data Analytics, IBM Data Analysis
-- **Udemy:** "The Complete Hands-On Introduction to Data Science"
-- **Maven Analytics:** Business Intelligence Bootcamp
+# 💳 Cursos Pagados
+
+- **Coursera:** Google Data Analytics
+- **Udemy:** Data Science Bootcamp
+- **Maven Analytics:** BI Bootcamp
 - **DataCamp:** Data Analyst tracks
 
-### **Comunidades en CR**
+---
 
-- **Data Science Costa Rica** (Meetup, Facebook)
-- **Dev.cr** - Comunidad tech local
-- **AI Costa Rica** - Grupo de IA y ML
-- **Tech Talks San José** - Conferencias locales
+# 🤝 Comunidades en CR
+
+- Data Science Costa Rica (Meetup)
+- Dev.cr - Comunidad tech
+- AI Costa Rica - IA y ML
+- Tech Talks San José
 
 ---
 
@@ -269,93 +273,73 @@ plt.show()
 
 ---
 
-# 💡 Tips para Entrevistas
+# 💡 Tips para Entrevista
 
-### **Antes de la Entrevista**
+**Antes:**
 
-- ✅ Domina tu portfolio y proyectos
-- ✅ Practica SQL queries comunes
-- ✅ Aprende sobre la industria de la empresa
-- ✅ Prepara ejemplos STAR (Situation, Task, Action, Result)
+- ✅ Domina tu portfolio
+- ✅ Practica SQL queries
+- ✅ Aprende de la empresa
+- ✅ Prepara ejemplos STAR
 
-### **Durante la Entrevista**
+**Durante:**
 
-- 🎯 Muestra curiosidad por los datos
-- 📊 Explica tu pensamiento analítico
+- 🎯 Muestra curiosidad
+- 📊 Explica pensamiento
 - 🤝 Destaca trabajo en equipo
-- 💬 Pregunta sobre desafíos reales
+- 💬 Pregunta sobre desafíos
 
-### **Preguntas que te Harán**
+---
 
-```
+# 🎤 Preguntas Comunes
+
 1. Explica un análisis que hayas hecho
-2. ¿Cómo manejarías datos inconsistentes?
-3. Diferencia entre correlación y causalidad
-4. Caso práctico: "Analiza este dataset"
-5. ¿Por qué quieres ser analista de datos?
-```
+2. ¿Cómo manejas datos inconsistentes?
+3. Correlación vs causalidad
+4. Caso práctico: analiza este dataset
+5. ¿Por qué quieres ser analista?
 
-### **Rojo Flags a Evitar**
+---
+
+# ⛔ Red Flags a Evitar
 
 - ❌ No investigar la empresa
-- ❌ No tener ejemplos concretos
+- ❌ Sin ejemplos concretos
 - ❌ Mentir sobre habilidades
-- ❌ Despreciar el trabajo manual
+- ❌ Despreciar trabajo manual
 
 ---
 
-# 🚀 Plan de Acción (12 Meses)
+# 🚀 Timeline: 12 Meses
 
-```
-MESES 1-2: Fundamentos
-├─ SQL básico + intermedio
-├─ Excel avanzado
-└─ Estadística 101
+**Meses 1-2:** SQL + Excel + Estadística
 
-MESES 3-4: Herramientas
-├─ Python para análisis
-├─ Visualización (Power BI)
-└─ Git & GitHub
+**Meses 3-4:** Python + Power BI + Git
 
-MESES 5-7: Proyectos
-├─ 3-5 proyectos portfolio
-├─ Kaggle competitions
-└─ Contribuciones GitHub
+**Meses 5-7:** 3-5 proyectos + Kaggle
 
-MESES 8-12: Especialización & Búsqueda
-├─ Certificaciones
-├─ Networking en comunidades
-├─ Entrevistas técnicas
-└─ Aplicar a posiciones
-```
+**Meses 8-12:** Certificaciones + Búsqueda
 
 ---
 
-# 🌟 Ventajas Competitivas en CR
+# 🌟 Tus Ventajas Competitivas
 
-### **Ser Bilingüe**
+### **Bilingüe**
 
-- Español + Inglés = acceso a empresas gringas
-- Valora mucho + dinero en multinationales
+- Acceso a empresas gringas
+- +30% más en salario
 
-### **Ubicación Geográfica**
+### **Ubicación**
 
-- Hub tech de América Latina
-- Atrae inversión extranjera
-- Salarios competitivos
+- Hub tech de Latinoamérica
+- Demanda > Oferta
+- 100% remoto disponible
 
-### **Mercado en Crecimiento**
+### **Soft Skills**
 
-- Demanda > Oferta (2024-2026)
-- Empresas buscan talento junior
-- Oportunidades de remoto 100%
-
-### **Soft Skills Importantes**
-
-- 💬 Comunicación clara
-- 🤝 Trabajo en equipo
-- ⏱️ Gestión de proyectos
-- 🎯 Resolución de problemas
+- Comunicación clara
+- Trabajo en equipo
+- Resolución de problemas
 
 ---
 
@@ -365,46 +349,27 @@ class: text-center
 
 # 🎯 Próximos Pasos
 
-## Hoy mismo:
+**Hoy:** Elige plataforma (Coursera, DataCamp)
 
-1. Elige una plataforma (Coursera, DataCamp)
-2. Registrate en Kaggle
-3. Crea una carpeta para proyectos
+**Esta semana:** SQL + GitHub + comunidades
 
-## Esta semana:
-
-1. Completa primer módulo SQL
-2. Configura GitHub
-3. Únete a comunidades locales
-
-## Este mes:
-
-1. Primer proyecto en portfolio
-2. Establece meta clara
-3. Busca mentor en tech
+**Este mes:** Primer proyecto portfolio
 
 ---
 
-# 📞 Recursos Finales
+# 📞 Enlaces Útiles
 
-### **En Costa Rica**
+### **Costa Rica**
 
-- 🌐 [LinkedIn CR Tech Community](https://linkedin.com)
-- 👥 [Data Science Costa Rica](https://www.meetup.com)
-- 💼 [LinkedIn Jobs CR](https://linkedin.com/jobs)
+- [Data Science CR](https://www.meetup.com)
+- [Dev.cr](https://dev.cr)
+- [LinkedIn Jobs](https://linkedin.com/jobs)
 
-### **Plataformas Globales**
+### **Globales**
 
-- 🐍 [Python.org](https://python.org)
-- 📊 [Kaggle.com](https://kaggle.com)
-- 📖 [Mode Analytics SQL](https://mode.com/sql-tutorial)
-- 🎓 [Coursera](https://coursera.org)
-
-### **Síguenos**
-
-- 📧 Newsletter de Data Science
-- 🐦 Expertos en Twitter/X
-- 📺 Canales de YouTube recomendados
+- [Kaggle.com](https://kaggle.com)
+- [Mode SQL](https://mode.com/sql-tutorial)
+- [Coursera](https://coursera.org)
 
 ---
 
